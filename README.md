@@ -1,16 +1,28 @@
-# tic_tac
+## 📝 Table of Contents
 
-A new Flutter project.
+- [About](#about)
+- [ScreenShots from the app](#screen-shots)
+- [Demo vedio](#demo_vedio)
+- [Contributors](#Contributors)
 
-## Getting Started
+## About <a name = "about"></a>
+- A tic tac toe game built using flutter. It has both the "Two player"&"Auto play" options.
 
-This project is a starting point for a Flutter application.
+## ScreenShots from the app: <a name = "screen-shots"></a>
+![tictactoe](https://user-images.githubusercontent.com/90224487/186334094-1ec2b908-dd7f-4d4b-a61f-76e6a16a6c9b.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## Demo vedio <a name = "demo_vedio"></a>
+https://youtube.com/shorts/bOsW-sjwVjA?feature=share
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contributors <a name = "Contributors"></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/hebaashraf21.png" target="_black">
+    <img src="" width="150px;" alt="Heba Ashraf"/>
+    <br />
+    <sub><b>Heba Ashraf</b></sub></a>
+    
+  </tr>
+ </table>
